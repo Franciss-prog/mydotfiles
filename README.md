@@ -23,3 +23,7 @@ Copy everything to `.mydotfiles/com.ml4w.dotfiles/`:
 ```bash
 cp * ../.mydotfiles/com.ml4w.dotfiles/
 ```
+## Step 5
+Restart your machine
+
+**AND DONE — ENJOY YOUR HYPRLAND!**
